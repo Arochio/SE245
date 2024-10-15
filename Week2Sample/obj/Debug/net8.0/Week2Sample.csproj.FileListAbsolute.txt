@@ -1,0 +1,15 @@
+C:\Users\008006845\Desktop\SE245\Week2Sample\bin\Debug\net8.0\Week2Sample.exe
+C:\Users\008006845\Desktop\SE245\Week2Sample\bin\Debug\net8.0\Week2Sample.deps.json
+C:\Users\008006845\Desktop\SE245\Week2Sample\bin\Debug\net8.0\Week2Sample.runtimeconfig.json
+C:\Users\008006845\Desktop\SE245\Week2Sample\bin\Debug\net8.0\Week2Sample.dll
+C:\Users\008006845\Desktop\SE245\Week2Sample\bin\Debug\net8.0\Week2Sample.pdb
+C:\Users\008006845\Desktop\SE245\Week2Sample\obj\Debug\net8.0\Week2Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\008006845\Desktop\SE245\Week2Sample\obj\Debug\net8.0\Week2Sample.AssemblyInfoInputs.cache
+C:\Users\008006845\Desktop\SE245\Week2Sample\obj\Debug\net8.0\Week2Sample.AssemblyInfo.cs
+C:\Users\008006845\Desktop\SE245\Week2Sample\obj\Debug\net8.0\Week2Sample.csproj.CoreCompileInputs.cache
+C:\Users\008006845\Desktop\SE245\Week2Sample\obj\Debug\net8.0\Week2Sample.sourcelink.json
+C:\Users\008006845\Desktop\SE245\Week2Sample\obj\Debug\net8.0\Week2Sample.dll
+C:\Users\008006845\Desktop\SE245\Week2Sample\obj\Debug\net8.0\refint\Week2Sample.dll
+C:\Users\008006845\Desktop\SE245\Week2Sample\obj\Debug\net8.0\Week2Sample.pdb
+C:\Users\008006845\Desktop\SE245\Week2Sample\obj\Debug\net8.0\Week2Sample.genruntimeconfig.cache
+C:\Users\008006845\Desktop\SE245\Week2Sample\obj\Debug\net8.0\ref\Week2Sample.dll

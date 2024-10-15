@@ -1,0 +1,15 @@
+C:\Users\008006845\Desktop\SE245\Week2Challenge\bin\Debug\net8.0\Week2Challenge.exe
+C:\Users\008006845\Desktop\SE245\Week2Challenge\bin\Debug\net8.0\Week2Challenge.deps.json
+C:\Users\008006845\Desktop\SE245\Week2Challenge\bin\Debug\net8.0\Week2Challenge.runtimeconfig.json
+C:\Users\008006845\Desktop\SE245\Week2Challenge\bin\Debug\net8.0\Week2Challenge.dll
+C:\Users\008006845\Desktop\SE245\Week2Challenge\bin\Debug\net8.0\Week2Challenge.pdb
+C:\Users\008006845\Desktop\SE245\Week2Challenge\obj\Debug\net8.0\Week2Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\008006845\Desktop\SE245\Week2Challenge\obj\Debug\net8.0\Week2Challenge.AssemblyInfoInputs.cache
+C:\Users\008006845\Desktop\SE245\Week2Challenge\obj\Debug\net8.0\Week2Challenge.AssemblyInfo.cs
+C:\Users\008006845\Desktop\SE245\Week2Challenge\obj\Debug\net8.0\Week2Challenge.csproj.CoreCompileInputs.cache
+C:\Users\008006845\Desktop\SE245\Week2Challenge\obj\Debug\net8.0\Week2Challenge.sourcelink.json
+C:\Users\008006845\Desktop\SE245\Week2Challenge\obj\Debug\net8.0\Week2Challenge.dll
+C:\Users\008006845\Desktop\SE245\Week2Challenge\obj\Debug\net8.0\refint\Week2Challenge.dll
+C:\Users\008006845\Desktop\SE245\Week2Challenge\obj\Debug\net8.0\Week2Challenge.pdb
+C:\Users\008006845\Desktop\SE245\Week2Challenge\obj\Debug\net8.0\Week2Challenge.genruntimeconfig.cache
+C:\Users\008006845\Desktop\SE245\Week2Challenge\obj\Debug\net8.0\ref\Week2Challenge.dll
