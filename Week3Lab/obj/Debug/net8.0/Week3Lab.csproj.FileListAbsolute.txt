@@ -1,0 +1,15 @@
+C:\Users\008006845\Desktop\SE245\Week3Lab\bin\Debug\net8.0\Week3Lab.exe
+C:\Users\008006845\Desktop\SE245\Week3Lab\bin\Debug\net8.0\Week3Lab.deps.json
+C:\Users\008006845\Desktop\SE245\Week3Lab\bin\Debug\net8.0\Week3Lab.runtimeconfig.json
+C:\Users\008006845\Desktop\SE245\Week3Lab\bin\Debug\net8.0\Week3Lab.dll
+C:\Users\008006845\Desktop\SE245\Week3Lab\bin\Debug\net8.0\Week3Lab.pdb
+C:\Users\008006845\Desktop\SE245\Week3Lab\obj\Debug\net8.0\Week3Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\008006845\Desktop\SE245\Week3Lab\obj\Debug\net8.0\Week3Lab.AssemblyInfoInputs.cache
+C:\Users\008006845\Desktop\SE245\Week3Lab\obj\Debug\net8.0\Week3Lab.AssemblyInfo.cs
+C:\Users\008006845\Desktop\SE245\Week3Lab\obj\Debug\net8.0\Week3Lab.csproj.CoreCompileInputs.cache
+C:\Users\008006845\Desktop\SE245\Week3Lab\obj\Debug\net8.0\Week3Lab.sourcelink.json
+C:\Users\008006845\Desktop\SE245\Week3Lab\obj\Debug\net8.0\Week3Lab.dll
+C:\Users\008006845\Desktop\SE245\Week3Lab\obj\Debug\net8.0\refint\Week3Lab.dll
+C:\Users\008006845\Desktop\SE245\Week3Lab\obj\Debug\net8.0\Week3Lab.pdb
+C:\Users\008006845\Desktop\SE245\Week3Lab\obj\Debug\net8.0\Week3Lab.genruntimeconfig.cache
+C:\Users\008006845\Desktop\SE245\Week3Lab\obj\Debug\net8.0\ref\Week3Lab.dll

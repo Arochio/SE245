@@ -1,0 +1,15 @@
+C:\Users\008006845\Desktop\SE245\Week4Lab\bin\Debug\net8.0\Week4Lab.exe
+C:\Users\008006845\Desktop\SE245\Week4Lab\bin\Debug\net8.0\Week4Lab.deps.json
+C:\Users\008006845\Desktop\SE245\Week4Lab\bin\Debug\net8.0\Week4Lab.runtimeconfig.json
+C:\Users\008006845\Desktop\SE245\Week4Lab\bin\Debug\net8.0\Week4Lab.dll
+C:\Users\008006845\Desktop\SE245\Week4Lab\bin\Debug\net8.0\Week4Lab.pdb
+C:\Users\008006845\Desktop\SE245\Week4Lab\obj\Debug\net8.0\Week4Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\008006845\Desktop\SE245\Week4Lab\obj\Debug\net8.0\Week4Lab.AssemblyInfoInputs.cache
+C:\Users\008006845\Desktop\SE245\Week4Lab\obj\Debug\net8.0\Week4Lab.AssemblyInfo.cs
+C:\Users\008006845\Desktop\SE245\Week4Lab\obj\Debug\net8.0\Week4Lab.csproj.CoreCompileInputs.cache
+C:\Users\008006845\Desktop\SE245\Week4Lab\obj\Debug\net8.0\Week4Lab.sourcelink.json
+C:\Users\008006845\Desktop\SE245\Week4Lab\obj\Debug\net8.0\Week4Lab.dll
+C:\Users\008006845\Desktop\SE245\Week4Lab\obj\Debug\net8.0\refint\Week4Lab.dll
+C:\Users\008006845\Desktop\SE245\Week4Lab\obj\Debug\net8.0\Week4Lab.pdb
+C:\Users\008006845\Desktop\SE245\Week4Lab\obj\Debug\net8.0\Week4Lab.genruntimeconfig.cache
+C:\Users\008006845\Desktop\SE245\Week4Lab\obj\Debug\net8.0\ref\Week4Lab.dll
