@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\008006845\\Desktop\\SE245\\Week5VS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3BD1B1-8257-48F0-863F-3DCF942B88EB}|Week5VS\\Week5VS.csproj|c:\\users\\008006845\\desktop\\se245\\week5vs\\week5vs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC3BD1B1-8257-48F0-863F-3DCF942B88EB}|Week5VS\\Week5VS.csproj|solutionrelative:week5vs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3BD1B1-8257-48F0-863F-3DCF942B88EB}|Week5VS\\Week5VS.csproj|c:\\users\\008006845\\desktop\\se245\\week5vs\\week5vs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC3BD1B1-8257-48F0-863F-3DCF942B88EB}|Week5VS\\Week5VS.csproj|solutionrelative:week5vs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3BD1B1-8257-48F0-863F-3DCF942B88EB}|Week5VS\\Week5VS.csproj|c:\\users\\008006845\\desktop\\se245\\week5vs\\week5vs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC3BD1B1-8257-48F0-863F-3DCF942B88EB}|Week5VS\\Week5VS.csproj|solutionrelative:week5vs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3BD1B1-8257-48F0-863F-3DCF942B88EB}|Week5VS\\Week5VS.csproj|c:\\users\\008006845\\desktop\\se245\\week5vs\\week5vs\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC3BD1B1-8257-48F0-863F-3DCF942B88EB}|Week5VS\\Week5VS.csproj|solutionrelative:week5vs\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\008006845\\Desktop\\SE245\\Week5VS\\Week5VS\\Form1.cs",
+              "RelativeDocumentMoniker": "Week5VS\\Form1.cs",
+              "ToolTip": "C:\\Users\\008006845\\Desktop\\SE245\\Week5VS\\Week5VS\\Form1.cs",
+              "RelativeToolTip": "Week5VS\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T12:29:31.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\008006845\\Desktop\\SE245\\Week5VS\\Week5VS\\Form1.cs",
+              "RelativeDocumentMoniker": "Week5VS\\Form1.cs",
+              "ToolTip": "C:\\Users\\008006845\\Desktop\\SE245\\Week5VS\\Week5VS\\Form1.cs [Design]",
+              "RelativeToolTip": "Week5VS\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T12:15:54.194Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\008006845\\Desktop\\SE245\\Week5VS\\Week5VS\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Week5VS\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\008006845\\Desktop\\SE245\\Week5VS\\Week5VS\\Form1.Designer.cs",
+              "RelativeToolTip": "Week5VS\\Form1.Designer.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAqwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T12:13:48.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\008006845\\Desktop\\SE245\\Week5VS\\Week5VS\\Program.cs",
+              "RelativeDocumentMoniker": "Week5VS\\Program.cs",
+              "ToolTip": "C:\\Users\\008006845\\Desktop\\SE245\\Week5VS\\Week5VS\\Program.cs",
+              "RelativeToolTip": "Week5VS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T12:13:41.844Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

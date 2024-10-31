@@ -1,0 +1,17 @@
+C:\Users\008006845\Desktop\SE245\Week5VS\Week5VS\bin\Debug\net8.0-windows\Week5VS.exe
+C:\Users\008006845\Desktop\SE245\Week5VS\Week5VS\bin\Debug\net8.0-windows\Week5VS.deps.json
+C:\Users\008006845\Desktop\SE245\Week5VS\Week5VS\bin\Debug\net8.0-windows\Week5VS.runtimeconfig.json
+C:\Users\008006845\Desktop\SE245\Week5VS\Week5VS\bin\Debug\net8.0-windows\Week5VS.dll
+C:\Users\008006845\Desktop\SE245\Week5VS\Week5VS\bin\Debug\net8.0-windows\Week5VS.pdb
+C:\Users\008006845\Desktop\SE245\Week5VS\Week5VS\obj\Debug\net8.0-windows\Week5VS.Form1.resources
+C:\Users\008006845\Desktop\SE245\Week5VS\Week5VS\obj\Debug\net8.0-windows\Week5VS.csproj.GenerateResource.cache
+C:\Users\008006845\Desktop\SE245\Week5VS\Week5VS\obj\Debug\net8.0-windows\Week5VS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\008006845\Desktop\SE245\Week5VS\Week5VS\obj\Debug\net8.0-windows\Week5VS.AssemblyInfoInputs.cache
+C:\Users\008006845\Desktop\SE245\Week5VS\Week5VS\obj\Debug\net8.0-windows\Week5VS.AssemblyInfo.cs
+C:\Users\008006845\Desktop\SE245\Week5VS\Week5VS\obj\Debug\net8.0-windows\Week5VS.csproj.CoreCompileInputs.cache
+C:\Users\008006845\Desktop\SE245\Week5VS\Week5VS\obj\Debug\net8.0-windows\Week5VS.sourcelink.json
+C:\Users\008006845\Desktop\SE245\Week5VS\Week5VS\obj\Debug\net8.0-windows\Week5VS.dll
+C:\Users\008006845\Desktop\SE245\Week5VS\Week5VS\obj\Debug\net8.0-windows\refint\Week5VS.dll
+C:\Users\008006845\Desktop\SE245\Week5VS\Week5VS\obj\Debug\net8.0-windows\Week5VS.pdb
+C:\Users\008006845\Desktop\SE245\Week5VS\Week5VS\obj\Debug\net8.0-windows\Week5VS.genruntimeconfig.cache
+C:\Users\008006845\Desktop\SE245\Week5VS\Week5VS\obj\Debug\net8.0-windows\ref\Week5VS.dll
